@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/shriram7057/shriram7057/blob/main/Swift%20logo.jpeg?raw=true" width="320" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
 </div>
 <h1 align="center">Welcome to my Programming-in-Swift Repository! 💡</h1>
 
@@ -163,34 +162,9 @@ git clone https://github.com/your-username/Swift-Programming.git
 </html>
 <hr>
 
-<h2 align="left">📣 Connect with Me</h2>
-
 <div align="center">
 
-<a href="https://github.com/shriram7057" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/shriram-lahane/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/shriram_lahane/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://instagram.com/heyy_shree_01/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/lahaneshr7f7/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="mailto:lahaneshriram2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<img src="https://github.com/shriram7057/shriram7057/blob/main/Swift%20logo.jpeg?raw=true" width="320" />
 </div>
 
 <p align="center">
